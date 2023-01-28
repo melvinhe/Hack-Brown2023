@@ -1,6 +1,6 @@
 # Welcome to the Campfire Carbon Calculator repository!
 
-This is where you'll find all the information and resources for the Campfire Carbon Calculator, a mobile app that helps campers calculate their carbon footprint while camping, and provide suggestions for reducing it.
+This is where you'll find all the information and resources for the Campfire Carbon Calculator, a web app that helps campers calculate their carbon footprint while camping, and provide suggestions for reducing it.
 
 Here's what you'll find in this repository:
 
